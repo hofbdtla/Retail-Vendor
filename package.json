@@ -1,0 +1,19 @@
+{
+  "name": "retail-vendor",
+  "version": "1.0.0",
+  "description": "Renders retail items from approved designers to vendors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOFB/Retail-Vendor.git"
+  },
+  "author": "greg hasenauer",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HOFB/Retail-Vendor/issues"
+  },
+  "homepage": "https://github.com/HOFB/Retail-Vendor#readme"
+}
